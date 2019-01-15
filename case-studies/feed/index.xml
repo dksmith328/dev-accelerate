@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Case Studies &#8211; Accelerate</title>
+	<atom:link href="https://dksmith328.github.io/dev-accelerate/case-studies/feed/" rel="self" type="application/rss+xml" />
+	<link>https://dksmith328.github.io/dev-accelerate</link>
+	<description>Accelerate is a strategy and marketing agency aimed at making our clients visible and building their businesses.</description>
+	<lastBuildDate>Thu, 03 Jan 2019 19:23:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>MailChimp Campaign</title>
+		<link>https://dksmith328.github.io/dev-accelerate/case-studies/mailchimp-campaign/</link>
+		<pubDate>Sat, 08 Dec 2018 19:31:35 +0000</pubDate>
+		<dc:creator><![CDATA[daniel]]></dc:creator>
+		
+		<guid isPermaLink="false">https://dksmith328.github.io/dev-accelerate/?post_type=case_studies&#038;p=47334</guid>
+		<description><![CDATA[Here is the early stage startup that I helped design and do front-end and back-end dev for.]]></description>
+				<content:encoded><![CDATA[<p>Here is the early stage startup that I helped design and do front-end and back-end dev for.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Coroflot Advertising</title>
+		<link>https://dksmith328.github.io/dev-accelerate/case-studies/coroflot-advertising/</link>
+		<pubDate>Tue, 20 Nov 2018 21:11:05 +0000</pubDate>
+		<dc:creator><![CDATA[daniel]]></dc:creator>
+		
+		<guid isPermaLink="false">https://dksmith328.github.io/dev-accelerate/?post_type=case_studies&#038;p=47351</guid>
+		<description><![CDATA[This is a project I made for this company. Here is the early stage start up I did the front-end and back-end dev for.]]></description>
+				<content:encoded><![CDATA[<p>This is a project I made for this company. Here is the early stage start up I did the front-end and back-end dev for.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Zurb Foundation Project</title>
+		<link>https://dksmith328.github.io/dev-accelerate/case-studies/zurb-foundation-project/</link>
+		<pubDate>Tue, 13 Nov 2018 21:27:55 +0000</pubDate>
+		<dc:creator><![CDATA[daniel]]></dc:creator>
+		
+		<guid isPermaLink="false">https://dksmith328.github.io/dev-accelerate/?post_type=case_studies&#038;p=47353</guid>
+		<description><![CDATA[Here is the early stage startup that I helped design and do front-end and back-end dev for.]]></description>
+				<content:encoded><![CDATA[<p>Here is the early stage startup that I helped design and do front-end and back-end dev for.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
